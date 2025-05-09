@@ -1,0 +1,87 @@
+[
+{
+  "product_code" : "5070",
+  "product_name" : "Zapalovače",
+  "price" : { "$numberDecimal" : "0.70" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoriacigi" : "Mäkké"
+},
+{
+  "product_code" : "5015",
+  "product_name" : "Zápalky",
+  "price" : { "$numberDecimal" : "0.15" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoriacigi" : "Krátké"
+},
+{
+  "product_code" : "5570",
+  "product_name" : "Marlboro",
+  "price" : { "$numberDecimal" : "5.70" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoriacigi" : "Mäkké"
+},
+{
+  "product_code" : "5600",
+  "product_name" : "Marlboro",
+  "price" : { "$numberDecimal" : "6.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoriacigi" : "Tvrdé"
+},
+{
+  "product_code" : "5510",
+  "product_name" : "LM modré",
+  "price" : { "$numberDecimal" : "5.10" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoriacigi" : "Krátké"
+},
+{
+  "product_code" : "55401",
+  "product_name" : "LM modré",
+  "price" : { "$numberDecimal" : "5.40" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoriacigi" : "Dlhé"
+
+},
+{
+  "product_code" : "55501",
+  "product_name" : "Mark1",
+  "price" : { "$numberDecimal" : "5.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoriacigi" : "Dlhé"
+
+},
+{
+  "product_code" : "55502",
+  "product_name" : "West červené",
+  "price" : { "$numberDecimal" : "5.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoriacigi" : "Dlhé"
+
+},
+{
+  "product_code" : "55402",
+  "product_name" : "LM červené",
+  "price" : { "$numberDecimal" : "5.40" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoriacigi" : "Dlhé"
+
+}
+]

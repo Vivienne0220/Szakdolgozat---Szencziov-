@@ -1,0 +1,155 @@
+[
+{
+  "product_code" : "1160",
+  "product_name" : "Kelt",
+  "price" : { "$numberDecimal" : "1.60" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "11601",
+  "product_name" : "Zlatý Bažant 10",
+  "price" : { "$numberDecimal" : "1.60" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "1180",
+  "product_name" : "Zlatý  Bažant 12",
+  "price" : { "$numberDecimal" : "1.80" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "11801",
+  "product_name" : "Zlatý Bažant Radler Nealko",
+  "price" : { "$numberDecimal" : "1.80" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Pleh"
+},
+{
+  "product_code" : "11802",
+  "product_name" : "Zlatý Bažant Nealko",
+  "price" : { "$numberDecimal" : "1.80" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "1210",
+  "product_name" : "Primator 16",
+  "price" : { "$numberDecimal" : "2.10" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "1170",
+  "product_name" : "Budvar 12 0.33l",
+  "price" : { "$numberDecimal" : "1.70" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "11602",
+  "product_name" : "Budvar 10%",
+  "price" : { "$numberDecimal" : "1.60" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "1400",
+  "product_name" : "Budvar 12%",
+  "price" : { "$numberDecimal" : "4.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "1500",
+  "product_name" : "Pilsner 12%",
+  "price" : { "$numberDecimal" : "5.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sud"
+},
+{
+  "product_code" : "1340",
+  "product_name" : "Bernard 10%",
+  "price" : { "$numberDecimal" : "3.40" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sud"
+},
+{
+  "product_code" : "1380",
+  "product_name" : "Svijany 11%",
+  "price" : { "$numberDecimal" : "3.80" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sud"
+},
+{
+  "product_code" : "1190",
+  "product_name" : "Saris tmavý",
+  "price" : { "$numberDecimal" : "1.90" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "11701",
+  "product_name" : "Svijany 11%",
+  "price" : { "$numberDecimal" : "1.70" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "1200",
+  "product_name" : "Bernard tmavé 12%",
+  "price" : { "$numberDecimal" : "2.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "1140",
+  "product_name" : "Pivo 10%",
+  "price" : { "$numberDecimal" : "1.40" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Pleh"
+},
+{
+  "product_code" : "11901",
+  "product_name" : "Budvar 12%",
+  "price" : { "$numberDecimal" : "1.90" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+}
+]

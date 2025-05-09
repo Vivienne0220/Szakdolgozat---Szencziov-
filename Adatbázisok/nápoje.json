@@ -1,0 +1,58 @@
+[
+{
+  "product_code" : "6110",
+  "product_name" : "Čaj",
+  "price" : { "$numberDecimal" : "1.10" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "6120",
+  "product_name" : "Nescafe 3 in 1",
+  "price" : { "$numberDecimal" : "1.20" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "6020",
+  "product_name" : "Capuciner",
+  "price" : { "$numberDecimal" : "0.20" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "6150",
+  "product_name" : "Capucino",
+  "price" : { "$numberDecimal" : "1.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "61501",
+  "product_name" : "Presso Káva",
+  "price" : { "$numberDecimal" : "1.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "61502",
+  "product_name" : "Horúca čokoláda",
+  "price" : { "$numberDecimal" : "1.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "6050",
+  "product_name" : "Med",
+  "price" : { "$numberDecimal" : "0.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+}
+]

@@ -1,0 +1,17 @@
+[
+{
+  "username": "Barbi",
+  "password": "1111",
+  "isBarbi": true
+},
+{
+  "username": "Vivi",
+  "password": "2222",
+  "isBarbi": false
+},
+{
+  "username": "Pracovník",
+  "password": "3333",
+  "isBarbi": false
+}
+]

@@ -1,0 +1,226 @@
+[
+{
+  "product_code" : "3210",
+  "product_name" : "Borovička 35%",
+  "price" : { "$numberDecimal" : "21.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3220",
+  "product_name" : "Gin 35%",
+  "price" : { "$numberDecimal" : "22.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "32101",
+  "product_name" : "Vodka 35%",
+  "price" : { "$numberDecimal" : "21.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3230",
+  "product_name" : "Vodka 40%",
+  "price" : { "$numberDecimal" : "23.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "32102",
+  "product_name" : "Rum 35%",
+  "price" : { "$numberDecimal" : "21.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "32301",
+  "product_name" : "Rum 40%",
+  "price" : { "$numberDecimal" : "23.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3240",
+  "product_name" : "Čerešňa",
+  "price" : { "$numberDecimal" : "24.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "32401",
+  "product_name" : "Slivovica",
+  "price" : { "$numberDecimal" : "24.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "32402",
+  "product_name" : "Magyar barack",
+  "price" : { "$numberDecimal" : "24.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3300",
+  "product_name" : "Spišská borovička",
+  "price" : { "$numberDecimal" : "30.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3400",
+  "product_name" : "Caribbean Rum",
+  "price" : { "$numberDecimal" : "40.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "33001",
+  "product_name" : "Nicolaus Vodka",
+  "price" : { "$numberDecimal" : "30.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "34001",
+  "product_name" : "Absolut Vodka",
+  "price" : { "$numberDecimal" : "40.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "32402",
+  "product_name" : "Hruška",
+  "price" : { "$numberDecimal" : "24.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "35125",
+  "product_name" : "Jelínek Marhula",
+  "price" : { "$numberDecimal" : "51.25" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "32403",
+  "product_name" : "Griotka",
+  "price" : { "$numberDecimal" : "24.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3450",
+  "product_name" : "Marhulovica 50%",
+  "price" : { "$numberDecimal" : "45.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "33002",
+  "product_name" : "Fernet Stock",
+  "price" : { "$numberDecimal" : "30.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "33003",
+  "product_name" : "Fernet Citrus",
+  "price" : { "$numberDecimal" : "30.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3340",
+  "product_name" : "Becherovka",
+  "price" : { "$numberDecimal" : "34.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "33004",
+  "product_name" : "Karpatske Brandy",
+  "price" : { "$numberDecimal" : "30.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3520",
+  "product_name" : "Tullamore Whiskey",
+  "price" : { "$numberDecimal" : "52.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3480",
+  "product_name" : "Jager 35%",
+  "price" : { "$numberDecimal" : "48.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "33005",
+  "product_name" : "Gin Borec",
+  "price" : { "$numberDecimal" : "30.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "34002",
+  "product_name" : "Bošacká Slivovica 52%",
+  "price" : { "$numberDecimal" : "40.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3270",
+  "product_name" : "Császárkörte",
+  "price" : { "$numberDecimal" : "27.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "3420",
+  "product_name" : "Tatranksý čaj 52%",
+  "price" : { "$numberDecimal" : "42.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "33006",
+  "product_name" : "Vilmovka hruška 38%",
+  "price" : { "$numberDecimal" : "30.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+}
+]

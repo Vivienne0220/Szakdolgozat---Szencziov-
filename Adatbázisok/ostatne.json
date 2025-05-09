@@ -1,0 +1,34 @@
+[
+{
+  "product_code" : "7020",
+  "product_name" : "Poháre",
+  "price" : { "$numberDecimal" : "0.20" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "7005",
+  "product_name" : "Slamky",
+  "price" : { "$numberDecimal" : "0.05" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "70051",
+  "product_name" : "Vrch na kávu",
+  "price" : { "$numberDecimal" : "0.05" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "7030",
+  "product_name" : "Papierové vreckovky",
+  "price" : { "$numberDecimal" : "0.30" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+}
+]

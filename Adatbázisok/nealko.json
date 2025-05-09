@@ -1,0 +1,173 @@
+[
+{
+  "product_code" : "2140",
+  "product_name" : "Hell 0.3l",
+  "price" : { "$numberDecimal" : "1.40" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Pleh"
+},
+{
+  "product_code" : "21401",
+  "product_name" : "Pepsi",
+  "price" : { "$numberDecimal" : "1.40" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Pleh"
+},
+{
+  "product_code" : "2350",
+  "product_name" : "Vinea",
+  "price" : { "$numberDecimal" : "3.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Flasa"
+},
+{
+  "product_code" : "2450",
+  "product_name" : "Coca Cola",
+  "price" : { "$numberDecimal" : "4.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Flasa"
+},
+{
+  "product_code" : "24501",
+  "product_name" : "Sprite",
+  "price" : { "$numberDecimal" : "4.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Flasa"
+},
+{
+  "product_code" : "24502",
+  "product_name" : "Tonic",
+  "price" : { "$numberDecimal" : "4.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Flasa"
+},
+{
+  "product_code" : "2170",
+  "product_name" : "Rauch džús",
+  "price" : { "$numberDecimal" : "1.70" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "2500",
+  "product_name" : "Sunny džús",
+  "price" : { "$numberDecimal" : "5.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Nič"
+},
+{
+  "product_code" : "2600",
+  "product_name" : "Happy džús jahoda",
+  "price" : { "$numberDecimal" : "6.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Nič"
+},
+{
+  "product_code" : "2110",
+  "product_name" : "Mini džús",
+  "price" : { "$numberDecimal" : "1.10" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Nič"
+},
+{
+  "product_code" : "2170",
+  "product_name" : "Targa",
+  "price" : { "$numberDecimal" : "1.70" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "2130",
+  "product_name" : "Minerálka",
+  "price" : { "$numberDecimal" : "1.30" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Flasa"
+},
+{
+  "product_code" : "2200",
+  "product_name" : "Sóda",
+  "price" : { "$numberDecimal" : "2.00"},
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sud"
+},
+{
+  "product_code" : "23501",
+  "product_name" : "Kofola",
+  "price" : { "$numberDecimal" : "3.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sud"
+},
+{
+  "product_code" : "2230",
+  "product_name" : "RedBull",
+  "price" : { "$numberDecimal" : "2.30" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Pleh"
+},
+{
+  "product_code" : "2190",
+  "product_name" : "Hell 0.5l",
+  "price" : { "$numberDecimal" : "1.90" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Pleh"
+},
+{
+  "product_code" : "2180",
+  "product_name" : "Tonic 0.5l",
+  "price" : { "$numberDecimal" : "1.80" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "21801",
+  "product_name" : "Tonic 0.5l",
+  "price" : { "$numberDecimal" : "1.80" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+},
+{
+  "product_code" : "21802",
+  "product_name" : "Coca Cola 05.l",
+  "price" : { "$numberDecimal" : "1.80" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" },
+  "kategoria" : "Sklenené"
+}
+]

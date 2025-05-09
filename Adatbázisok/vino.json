@@ -1,0 +1,42 @@
+[
+{
+  "product_code" : "8850",
+  "product_name" : "Víno červené",
+  "price" : { "$numberDecimal" : "8.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "88501",
+  "product_name" : "Pivot Víno červené",
+  "price" : { "$numberDecimal" : "8.50" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "8800",
+  "product_name" : "Veltín Víno",
+  "price" : { "$numberDecimal" : "8.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "8100",
+  "product_name" : "Hubert Šampus",
+  "price" : { "$numberDecimal" : "10.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+},
+{
+  "product_code" : "8150",
+  "product_name" : "Don Felder víno",
+  "price" : { "$numberDecimal" : "15.00" },
+  "zosPred" : { "$numberInt" : "0" },
+  "prijem" : { "$numberInt" : "0" },
+  "uzavZos" : { "$numberInt" : "0" }
+}
+]
