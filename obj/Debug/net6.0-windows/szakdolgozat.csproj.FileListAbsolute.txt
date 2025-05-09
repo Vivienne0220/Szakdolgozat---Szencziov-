@@ -1,0 +1,58 @@
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.csproj.AssemblyReference.cache
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.Form1.resources
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.LoginForm.resources
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\MainForm.resources
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.SelectionForm.resources
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.csproj.GenerateResource.cache
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.AssemblyInfoInputs.cache
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.AssemblyInfo.cs
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.csproj.CoreCompileInputs.cache
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\szakdolgozat.exe
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\szakdolgozat.deps.json
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\szakdolgozat.runtimeconfig.json
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\szakdolgozat.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\szakdolgozat.pdb
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolg.9D47945C.Up2Date
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\refint\szakdolgozat.dll
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.pdb
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\szakdolgozat.genruntimeconfig.cache
+C:\Users\vivis\Desktop\Szakdoga-lelt-r-main\proba_javitott_again\obj\Debug\net6.0-windows\ref\szakdolgozat.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\szakdolgozat.exe
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\szakdolgozat.deps.json
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\szakdolgozat.runtimeconfig.json
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\szakdolgozat.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\szakdolgozat.pdb
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.csproj.AssemblyReference.cache
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.Form1.resources
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.LoginForm.resources
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\MainForm.resources
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.SelectionForm.resources
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.csproj.GenerateResource.cache
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.AssemblyInfoInputs.cache
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.AssemblyInfo.cs
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.csproj.CoreCompileInputs.cache
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolg.9D47945C.Up2Date
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\refint\szakdolgozat.dll
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.pdb
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\szakdolgozat.genruntimeconfig.cache
+C:\Users\vivis\Desktop\Szakdolgozat - Vivien Szencziová\szakdolgozat\obj\Debug\net6.0-windows\ref\szakdolgozat.dll
