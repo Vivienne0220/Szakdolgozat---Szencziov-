@@ -15,9 +15,9 @@ namespace szakdolgozat
         private TextBox vydaj;
         private Label trzbaLabel;
 
-        public DailyForm(bool isBarbi = true)
+        public DailyForm(bool isAdmin = true)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
             InitializeComponent();
             DisplayResults();
         }

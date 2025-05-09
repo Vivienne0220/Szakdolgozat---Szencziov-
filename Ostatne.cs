@@ -40,11 +40,11 @@ namespace szakdolgozat
         public decimal ostatne;
         public decimal celkomostatne;
 
-        public Ostatne(bool isBarbi = true)
+        public Ostatne(bool isAdmin = true)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
 
-            if (isBarbi) { InitializeComponentB(); }
+            if (isAdmin) { InitializeComponentB(); }
 
             else { InitializeComponent(); }
         }

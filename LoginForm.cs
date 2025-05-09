@@ -54,7 +54,7 @@ namespace szakdolgozat
             {
                 MessageBox.Show("Prihlásenie bolo úspešné.", "Informácia", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 this.Hide();
-                var selectionForm = new SelectionForm(account.IsBarbi);
+                var selectionForm = new SelectionForm(account.isAdmin);
                 selectionForm.ShowDialog();
                 this.Close();
             }

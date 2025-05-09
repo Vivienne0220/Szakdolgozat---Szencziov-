@@ -39,11 +39,11 @@ namespace szakdolgozat
         public decimal destilaty;
         public decimal celkomdestilaty = 0;
 
-        public Destilaty(bool isBarbi = true)
+        public Destilaty(bool isAdmin = true)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
 
-            if (isBarbi) { InitializeComponentB(); }
+            if (isAdmin) { InitializeComponentB(); }
 
             else { InitializeComponent(); }
         }

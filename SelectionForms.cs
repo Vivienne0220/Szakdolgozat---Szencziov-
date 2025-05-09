@@ -12,12 +12,12 @@ namespace szakdolgozat
         private Button buttonRegister;
         private bool _isAdmin;
 
-        public SelectionForm(bool isBarbi = false)
+        public SelectionForm(bool isAdmin = false)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
 
             InitializeComponent();
-            if (isBarbi) { buttonMonthly.Enabled = true; buttonRegister.Enabled = true; }
+            if (isAdmin) { buttonMonthly.Enabled = true; buttonRegister.Enabled = true; }
             else { buttonMonthly.Enabled = false; buttonRegister.Enabled = false; }
         }
 

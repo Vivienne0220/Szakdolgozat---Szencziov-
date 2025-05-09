@@ -27,9 +27,9 @@ public class MainForm : Form
         this.Close();
     }
 
-    public MainForm(bool isBarbi = true)
+    public MainForm(bool isAdmin = true)
     {
-        _isAdmin = isBarbi;
+        _isAdmin = isAdmin;
 
         this.Text = "Týždenná inventúra!";
         this.Size = new System.Drawing.Size(750, 500);

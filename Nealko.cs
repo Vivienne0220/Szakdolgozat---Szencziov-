@@ -44,11 +44,11 @@ namespace szakdolgozat
         public decimal nealkofull = 0;
         public decimal celkomnealko = 0;
 
-        public Nealko(bool isBarbi = true)
+        public Nealko(bool isAdmin = true)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
 
-            if (isBarbi) { InitializeComponentB(); }
+            if (isAdmin) { InitializeComponentB(); }
 
             else { InitializeComponent(); }
         }

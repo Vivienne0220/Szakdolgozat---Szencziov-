@@ -11,11 +11,11 @@ namespace szakdolgozat
     public partial class Form1 : Form
     {
         private bool _isAdmin;
-        public Form1(bool isBarbi = false)
+        public Form1(bool isAdmin = false)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
             InitializeComponent();
-            if (isBarbi) { button9.Enabled = true; }
+            if (isAdmin) { button9.Enabled = true; }
             else { button9.Enabled = false; }
         }
 

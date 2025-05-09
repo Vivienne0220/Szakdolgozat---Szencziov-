@@ -40,11 +40,11 @@ namespace szakdolgozat
 
         private bool _isAdmin;
 
-        public Vino(bool isBarbi = true)
+        public Vino(bool isAdmin = true)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
 
-            if (isBarbi) { InitializeComponentB(); }
+            if (isAdmin) { InitializeComponentB(); }
 
             else { InitializeComponent(); }
         }

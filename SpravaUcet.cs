@@ -155,7 +155,7 @@ namespace szakdolgozat
             var updateDefinition = Builders<Accounts>.Update
                 .Set(a => a.Username, txtboxUsername.Text)
                 .Set(a => a.Password, txtboxPassword.Text)
-                .Set(a => a.IsBarbi, chboxIsAdmin.Checked);
+                .Set(a => a.isAdmin, chboxIsAdmin.Checked);
 
             fiokTabla.UpdateOne(filterDefinition, updateDefinition);
             RefreshDataGrid();
@@ -168,7 +168,7 @@ namespace szakdolgozat
                 AccountID = ObjectId.GenerateNewId().ToString(),
                 Username = txtboxUsername.Text,
                 Password = txtboxPassword.Text,
-                IsBarbi = chboxIsAdmin.Checked
+                isAdmin = chboxIsAdmin.Checked
             };
 
             fiokTabla.InsertOne(newAccount);
@@ -206,7 +206,7 @@ namespace szakdolgozat
                 var row = dataTable.NewRow();
                 row["Meno"] = account.Username;
                 row["Heslo"] = account.Password;
-                if (account.IsBarbi == true)
+                if (account.isAdmin == true)
                 {
                     row["Manažér"] = "Áno";
                 }

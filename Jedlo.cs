@@ -40,11 +40,11 @@ namespace szakdolgozat
         public decimal jedlo;
         public decimal celkomjedlo = 0;
 
-        public Jedlo(bool isBarbi = true)
+        public Jedlo(bool isAdmin = true)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
 
-            if (isBarbi) { InitializeComponentB(); }
+            if (isAdmin) { InitializeComponentB(); }
 
             else { InitializeComponent(); }
         }

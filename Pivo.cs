@@ -44,11 +44,11 @@ namespace szakdolgozat
         public decimal pivofull = 0;
         public decimal celkompivo = 0;
 
-        public Pivo(bool isBarbi = true)
+        public Pivo(bool isAdmin = true)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
 
-            if (isBarbi) { InitializeComponentB(); }
+            if (isAdmin) { InitializeComponentB(); }
 
             else { InitializeComponent(); }
         }

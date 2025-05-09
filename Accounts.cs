@@ -19,7 +19,7 @@ namespace szakdolgozat
         [BsonElement("password"), BsonRepresentation(BsonType.String)]
         public string Password { get; set; }
 
-        [BsonElement("isBarbi"), BsonRepresentation(BsonType.Boolean)]
-        public bool IsBarbi { get; set; }
+        [BsonElement("isAdmin"), BsonRepresentation(BsonType.Boolean)]
+        public bool isAdmin { get; set; }
     }
 }

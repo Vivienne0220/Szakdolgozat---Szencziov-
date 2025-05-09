@@ -41,11 +41,11 @@ namespace szakdolgozat
 
         private bool _isAdmin; 
 
-        public Cigaretta(bool isBarbi = true)
+        public Cigaretta(bool isAdmin = true)
         {
-            _isAdmin = isBarbi;
+            _isAdmin = isAdmin;
 
-            if (isBarbi) { InitializeComponentB(); }
+            if (isAdmin) { InitializeComponentB(); }
 
             else { InitializeComponent(); }
         }
